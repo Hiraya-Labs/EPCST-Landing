@@ -92,7 +92,7 @@
 
 {{-- Courses --}}
 
-<section id="courses" class="courses text-gray-600 body-font">
+<section id="courses" class="courses text-gray-600 body-font bg-green-50">
   <div class="container px-5 py-24 mx-auto">
   <div class="text-center mb-20">
       <h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Here are the courses that we offer!</h1>
@@ -105,7 +105,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="bscoe" class="object-cover object-center w-full h-full block" src="img/course_bscoe.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -115,7 +115,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="bsit" class="object-cover object-center w-full h-full block" src="img/course_bsit.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -125,7 +125,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="bscs" class="object-cover object-center w-full h-full block" src="img/course_bscs.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -135,7 +135,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="bshm" class="object-cover object-center w-full h-full block" src="img/course_bshm.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -145,7 +145,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="act" class="object-cover object-center w-full h-full block" src="img/course_act.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -155,7 +155,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="epas" class="object-cover object-center w-full h-full block" src="img/tesda_epas.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -165,7 +165,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="caregiving" class="object-cover object-center w-full h-full block" src="img/tesda_care.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -175,7 +175,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="hrt" class="object-cover object-center w-full h-full block" src="img/tesda_hrt.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -185,7 +185,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="hrs" class="object-cover object-center w-full h-full block" src="img/tesda_hrs.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -195,7 +195,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="fandb" class="object-cover object-center w-full h-full block" src="img/tesda_fandb.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Free Training & Assessment</h3>
@@ -205,7 +205,7 @@
 
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/420x260">
+          <img alt="css" class="object-cover object-center w-full h-full block" src="img/tesda_css.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Free Training & Assessment</h3>
@@ -230,7 +230,7 @@
   </div>
 </section>
 
-{{-- Gallery --}}
+{{-- news and blogs --}}
 
 <section id="news-and-blogs" class="news-and-blogs text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
@@ -244,12 +244,12 @@
         <div class="-my-8 divide-y-2 divide-gray-100">
           <div class="py-8 flex flex-wrap md:flex-nowrap">
             <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-              <span class="font-semibold title-font text-gray-700">CATEGORY</span>
-              <span class="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
+              <span class="font-semibold title-font text-gray-700">EPCST</span>
+              <span class="mt-1 text-gray-500 text-sm">9 Jun 2023</span>
             </div>
             <div class="md:flex-grow">
-              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">Bitters hashtag waistcoat fashion axe chia unicorn</h2>
-              <p class="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">Eastwoods Bring-A-Friend!</h2>
+              <p class="leading-relaxed">Valid to all bonafide students of Eastwoods, Encourage your friend to enroll in any course offerings, For every friend who enrolled, you will recieve P300.00 cash incentives for High School and P500.00 cash incentives for College</p>
               <a class="text-green-500 inline-flex items-center mt-4">Learn More
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
@@ -260,12 +260,14 @@
           </div>
           <div class="py-8 flex flex-wrap md:flex-nowrap">
             <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-              <span class="font-semibold title-font text-gray-700">CATEGORY</span>
-              <span class="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
+              <span class="font-semibold title-font text-gray-700">EAST ACADEMY</span>
+              <span class="mt-1 text-gray-500 text-sm">6 Jun 2023</span>
             </div>
             <div class="md:flex-grow">
-              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">Meditation bushwick direct trade taxidermy shaman</h2>
-              <p class="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">ENROLLMENT is ONGOING!</h2>
+              <p class="leading-relaxed">At EASTWOODS, we focus on creating a positive student learning experience. EASTWOODS is not just a school, it is the Home of Champions!
+              SY 23-24 Enrollment is now ONGOING!  Be part of the Growing Family!
+              </p>
               <a class="text-green-500 inline-flex items-center mt-4">Learn More
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
@@ -276,12 +278,12 @@
           </div>
           <div class="py-8 flex flex-wrap md:flex-nowrap">
             <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-              <span class="font-semibold title-font text-gray-700">CATEGORY</span>
-              <span class="text-sm text-gray-500">12 Jun 2019</span>
+              <span class="font-semibold title-font text-gray-700">EPCST</span>
+              <span class="text-sm text-gray-500">1 Jun 2023</span>
             </div>
             <div class="md:flex-grow">
-              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">Woke master cleanse drinking vinegar salvia</h2>
-              <p class="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+              <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">FREE Training & Assessment (TWSP)</h2>
+              <p class="leading-relaxed">The Home of Champions is now accepting registrants for Computer Servicing NC II and Food and Beverage Services NC II, Free Tuition Fee, Free National Assessment.</p>
               <a class="text-green-500 inline-flex items-center mt-4">Learn More
                 <svg class="w-4 h-4 ml-2" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                   <path d="M5 12h14"></path>
