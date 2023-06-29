@@ -103,9 +103,9 @@
     </div>
     <div class="flex flex-wrap -m-4">
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="bscoe" class="object-cover object-center w-full h-full block" src="img/course_bscoe.jpg">
+          <img alt="bscoe" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/course_bscoe.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -113,9 +113,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="bsit" class="object-cover object-center w-full h-full block" src="img/course_bsit.jpg">
+          <img alt="bsit" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/course_bsit.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -123,9 +123,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="bscs" class="object-cover object-center w-full h-full block" src="img/course_bscs.jpg">
+          <img alt="bscs" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/course_bscs.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -133,9 +133,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="bshm" class="object-cover object-center w-full h-full block" src="img/course_bshm.jpg">
+          <img alt="bshm" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/course_bshm.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -143,9 +143,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="act" class="object-cover object-center w-full h-full block" src="img/course_act.jpg">
+          <img alt="act" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/course_act.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CHED</h3>
@@ -153,9 +153,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="epas" class="object-cover object-center w-full h-full block" src="img/tesda_epas.jpg">
+          <img alt="epas" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_epas.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -163,9 +163,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="caregiving" class="object-cover object-center w-full h-full block" src="img/tesda_care.jpg">
+          <img alt="caregiving" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_care.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -173,9 +173,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="hrt" class="object-cover object-center w-full h-full block" src="img/tesda_hrt.jpg">
+          <img alt="hrt" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_hrt.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -183,9 +183,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="hrs" class="object-cover object-center w-full h-full block" src="img/tesda_hrs.jpg">
+          <img alt="hrs" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_hrs.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">TESDA</h3>
@@ -193,9 +193,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="fandb" class="object-cover object-center w-full h-full block" src="img/tesda_fandb.jpg">
+          <img alt="fandb" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_fandb.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Free Training & Assessment</h3>
@@ -203,9 +203,9 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <a class="block relative h-48 rounded overflow-hidden">
-          <img alt="css" class="object-cover object-center w-full h-full block" src="img/tesda_css.jpg">
+          <img alt="css" class="object-cover object-center w-full h-full block hover:scale-125 ease-in duration-300" src="img/tesda_css.jpg">
         </a>
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Free Training & Assessment</h3>
@@ -213,12 +213,12 @@
         </div>
       </div>
 
-      <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+      <div class="lg:w-1/4 md:w-1/2 p-4 w-full hover:bg-green-300 rounded-md drop-shadow-md">
         <div class="mt-4">
           <h2 class="text-gray-900 title-font text-lg font-medium text-center">Build your bright future with us!</h2>
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1 text-center">By click enroll now you agree to be transfered into our online applicantion form, where the applicant will fill in the required fields of information.</h3>
           <form action="https://forms.gle/22mTtShNj6MtoVEG7" target="_blank">
-              <button class="flex mx-auto mt-20 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">Enroll Now</button>
+              <button class="animate-bounce flex mx-auto mt-20 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-green-600 rounded text-lg">Enroll Now</button>
           </form>
         </div>
       </div>
